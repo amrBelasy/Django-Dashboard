@@ -1,5 +1,5 @@
 # Django-Dashboard
 
 Login:
-   username ---> amr
-   pass     ---> amr123
+# username ---> amr
+# pass     ---> amr123
